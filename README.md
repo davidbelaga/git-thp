@@ -1,5 +1,5 @@
 Ceci est mon tout premier repo GitHub, waow !
-`
+
 .
 ├── README.md
 ├── app
@@ -699,5 +699,4 @@ Ceci est mon tout premier repo GitHub, waow !
 │   ├── start.html
 │   └── timeline.html
 ├── gulpfile.js
-└── package.json
-
+└── package.json`
